@@ -1,0 +1,10 @@
+id,name,category,price,stock
+1,Laptop,Electronics,65000,10
+2,Phone,Electronics,30000,20
+3,Keyboard,Electronics,1500,25
+4,Shoes,Fashion,2500,50
+5,Tshirt,Fashion,800,100
+6,Watch,Fashion,5000,30
+7,Chips,Snacks,20,200
+8,Cookies,Snacks,50,150
+9,Chocolate,Snacks,100,120

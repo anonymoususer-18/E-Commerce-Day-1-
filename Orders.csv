@@ -1,0 +1,6 @@
+order_id,user_id,product,total,status
+1001,101,Laptop,65000,Shipped
+1002,101,Phone,30000,Delivered
+1003,102,Shoes,2500,Processing
+1004,101,Chocolate,100,Processing
+1005,101,Watch,5000,Processing
