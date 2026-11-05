@@ -1,5 +1,4 @@
-**Day 1 Task
-**
+**Day 1 Task**
 **Objective**
 Build an E-Commerce backend application using Python with the following services:
 Products Service
@@ -7,8 +6,8 @@ Catalog Service
 Cart Service
 Shipping Service
 
-**Technologies Used
-**Python
+**Technologies Used**
+Python
 Pandas
 NumPy
 CSV Files (for data storage)
